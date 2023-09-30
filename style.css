@@ -1,0 +1,45 @@
+#ruang-keluarga {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url("assets/images/ruang-keluarga-mati.png") no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#ruang-makan {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url("assets/images/ruang-makan-mati.png") no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#ruang-tidur {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url("assets/images/ruang-tidur-mati.png") no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#ruang-tamu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url("assets/images/ruang-tamu-mati.png") no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.tombol-semua {
+  /* width: 2%; */
+  height: 5%;
+  min-height: 100vh;
+}
